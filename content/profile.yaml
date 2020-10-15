@@ -1,0 +1,30 @@
+- profile:
+  initials: DB
+  name: Dawit Bezu Mengistu
+  email: dawitbezumengistu@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Växjö, Sweden
+  relocation: true
+  company: Available for hire
+  for_hire: false
+  focus: Learning Gatsby, NodeJS
+  focus_url: https://gatsbyjs.org, https://nodejs.org/en/docs/
+  about: |
+    I have a Master’s degree in Web Technologies and four years hands-on experience coding websites and applications using modern HTML, CSS, JavaScript, ReactJS and Node. 
+
+    Building state-of-the-art, intuitive, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to your organization.
+    
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - React
+  tools:
+    - Vue
+    - VSCode
+    - Gatsby
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

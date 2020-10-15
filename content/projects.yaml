@@ -1,0 +1,53 @@
+- name: Recipe Finder
+  url: https://github.com/DawitBezu/react-recipe-app
+  description: A recipe lookup application implemented with React & an API.
+  status: live
+  tags:
+    - JavaScript
+    - HTML/CSS
+    - React
+  icon: github
+  image: images/pic03.jpg
+
+- name: Responsive Product landing page
+  url: https://github.com/DawitBezu/responsive-product-landing
+  description: Displays UI with showcase & overlay for products. It is implemented with css variable & Media Queries.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - CSS variable
+  icon: website
+  image: images/pic01.jpg
+
+- name: Netflix Clone 
+  url: https://github.com/DawitBezu/Netflix-landing
+  description: A responsive Netflix clone landing page
+  status: live
+  tags:
+    - Sass
+    - HTML
+    - JavaScript
+  icon: website
+  image: images/pic02.jpg
+
+- name: Flash Card
+  url: https://github.com
+  description: Flash card app for learning. Flip cards using CSS, displays question cards and flip for answer. Add cards to local storage & clear cards from local storage.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/pic05.jpg
+
+- name: Form validation, Firebase authentication
+  url: https://github.com/DawitBezu
+  description: JavaScript projects .
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - Firebase
+  icon: website
+  image: images/pic04.jpg

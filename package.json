@@ -1,0 +1,13 @@
+{
+  "name": "dave",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "^1.0.14",
+    "gatsby": "^2.24.78",
+    "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
