@@ -1,3 +1,15 @@
+- name: Coffee shop with eCommerce functionality
+  url: https://davoscoffee.netlify.app/
+  description: A gatsby application with Contentful headless CMS & eCommerce implemented with Snipcart
+  status: live
+  tags:
+    - Gatsby
+    - Contentful
+    - Snipcart
+    - JavaScript
+  icon: website
+  image: images/coffee.jpg
+  
 - name: Recipe Finder
   url: https://github.com/DawitBezu/react-recipe-app
   description: A recipe lookup application implemented with React & an API.
